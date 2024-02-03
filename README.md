@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @Kwiatens
-- 👀 I’m interested in model rockets, electronics, programming etc.
+- 👋 Hi, I’m Paweł! I live in Poland
+- 👀 My hobbies are:
+- Model Rocketry
+- Electronics
+- Chemistry
+- IT Stuff
+
 
