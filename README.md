@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Paweł (Kwiatens)</h1>
+<h1 align="center">Hi 👋, I'm Paweł (Kwiatens)</h1>
 <h3 align="center">I'm into rocketry, electronics and more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwiatens&label=Profile%20views&color=0e75b6&style=flat" alt="kwiatens" /> </p>
