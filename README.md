@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł (Kwiatens)</h1>
 <h3 align="center">I'm into rocketry, electronics and more</h3>
 
-- 🔭 I’m currently working on [FloV3R VR Headset](https://github.com/Kwiatens/FloV3R)
+- 🔭 I’m currently working on Proxima Aerospace Flight Computer.
 
 - 🌱 I’m currently learning **Electronics, chemistry, physics and other science stuff**
 
