@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł (Kwiatens)</h1>
 <h3 align="center">I'm the founder of Flower Space - model rocketry company</h3>
 
-- 🔭 I’m currently working on an official Proxima Flight Computer and BlueBell Alpha Flight Computer.
+- 🔭 I’m currently working on an official Proxima Flight Computer.
 - 🌱 I’m currently learning **Electronics, physics (quantum too) and other science stuff**.
 
 <h3 align="left">Languages and Tools:</h3>
