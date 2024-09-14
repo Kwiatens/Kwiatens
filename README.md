@@ -7,8 +7,8 @@ I'm passionate about building model rockets and developing advanced flight compu
 
 🔧 **Tools I Use**:
 - **KiCAD** for PCB design
-- **Autodesk Fusion** for 3D modeling
-- **FreeCAD (Ondsel)** for open-source design
+- **Autodesk Fusion** for hobby use
+- **FreeCAD (Ondsel)** for commercial design
 
 📍 **What I'm working on now**:
 - Developing **Proxima Flight Computers** and writing the software for them.
