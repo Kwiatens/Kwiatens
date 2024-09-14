@@ -11,9 +11,9 @@ I'm passionate about building model rockets, developing advanced avionics system
 - **Autodesk Fusion** 3D design for hobby use.
 - **OpenRocket** for Rocket design and flight simulation.
 - **CubeIDE** and **VSC** for firmware/software.
-- **Saturn PCB Toolkit** for PCB calculations
+- **Saturn PCB Toolkit** for PCB calculations.
 
 📍 **What I'm working on now**:
 - Developing **Proxima Flight Computers** and writing the software for them.
-- Designing a stealth-inspired model rocket.
+- Stealth-inspired advanced model rocket.
 - Creating 3D-printable aviation gadgets.
