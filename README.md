@@ -5,7 +5,7 @@
 🚀 **About Me**  
 I'm passionate about building model rockets, developing advanced avionics systems, designing flight computers and writing software for them.
 
-🔧 **Software that I mainly use**:
+🔧 **Main Software that I use**:
 - **KiCAD** for PCB design.
 - **FreeCAD (Ondsel)** 3D design for commercial use.
 - **Autodesk Fusion** 3D design for hobby use.
