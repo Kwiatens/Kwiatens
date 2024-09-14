@@ -8,7 +8,7 @@ I'm passionate about building model rockets, developing advanced avionics system
 🔧 **Software that I mainly use**:
 - **KiCAD** for PCB design.
 - **FreeCAD (Ondsel)** 3D design for commercial use.
-- **Autodesk Fusion** 3D design for hobby us.
+- **Autodesk Fusion** 3D design for hobby use.
 - **OpenRocket** for Rocket design and flight simulation.
 - **CubeIDE** and **VSC** for firmware/software.
 - **Saturn PCB Toolkit** for PCB calculations
