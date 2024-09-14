@@ -16,4 +16,5 @@ I'm passionate about building model rockets, developing advanced avionics system
 📍 **What I'm working on now**:
 - Developing **Proxima Flight Computers** and writing the software for them.
 - Stealth-inspired advanced model rocket.
-- Creating 3D-printable aviation gadgets.
+- 3D-printable aviation gadgets.
+- Mini print farm.
