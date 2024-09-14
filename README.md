@@ -3,7 +3,7 @@
 <p align="center">Founder of <span style="color:#00b7ff"><strong>Flower Space</strong></span> & Co-Founder of <span style="color:#00b7ff"><strong>Proxima</strong></span></p>
 
 🚀 **About Me**  
-I'm passionate about building model rockets, developing advanced avionics systems, designing flight computers and writing software.
+I'm passionate about building model rockets, developing advanced avionics systems, designing flight computers and writing software for them.
 
 🔧 **Software that I mainly use**:
 - **KiCAD** for PCB design.
