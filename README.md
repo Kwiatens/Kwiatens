@@ -17,6 +17,6 @@ I'm passionate about electronics, building model rockets, developing advanced av
 - Starting my own business.
 - Developing **Proxima Flight Computers** and writing the software for them.
 - Stealth-inspired advanced model rocket.
-- Ramjet-ish engine with variable geometry nozzle and TVC for that stealthy rocket.
+- Active Ramjet-ish engine with variable geometry nozzle and TVC for that stealthy rocket.
 - 3D-printable aviation gadgets.
 - Mini print farm.
