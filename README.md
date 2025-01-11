@@ -14,8 +14,8 @@ I'm passionate about space exploration, electronics, building model rockets, dev
 - **Saturn PCB Toolkit** for PCB calculations.
 
 📍 **What I'm working on now**:
+- Stealth-inspired advanced model rocket.
+- Hybrid Jet engine for it.
 - Starting my own business.
 - Developing **Proxima Flight Computers** and writing the software for them.
-- Stealth-inspired advanced model rocket.
 - 3D-printable aviation gadgets.
-- Small printer farm.
