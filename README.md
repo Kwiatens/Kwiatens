@@ -7,7 +7,7 @@ I'm passionate about space exploration, electronics, building model rockets, dev
 
 🔧 **Main Software that I use**:
 - **KiCAD** for PCB design.
-- **FreeCAD (Ondsel)** 3D design for commercial use.
+- **FreeCAD** 3D design for commercial use.
 - **Autodesk Fusion** 3D design for hobby use.
 - **OpenRocket** for Rocket design and flight simulation.
 - **CubeIDE** and **VSC** for firmware/software.
