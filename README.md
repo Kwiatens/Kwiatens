@@ -16,6 +16,7 @@ I'm passionate about space exploration, electronics, building model rockets, dev
 📍 **What I'm working on now**:
 - Stealth-inspired advanced model rocket.
 - Hybrid Jet engine for it.
+- Meshtastic Offgrid Weather Forecaster
 - Starting my own business.
 - Developing **Proxima Flight Computers** and writing the software for them.
 - 3D-printable aviation gadgets.
