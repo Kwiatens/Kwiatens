@@ -9,6 +9,7 @@ I'm passionate about space exploration, electronics, building model rockets, dev
 - **KiCAD** for PCB design.
 - **FreeCAD** 3D design for commercial use.
 - **Autodesk Fusion** 3D design for hobby use.
+- **Ansys** for CFD and other stuff.
 - **OpenRocket** for Rocket design and flight simulation.
 - **CubeIDE** and **VSC** for firmware/software.
 - **Saturn PCB Toolkit** for PCB calculations.
