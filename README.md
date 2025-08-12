@@ -27,6 +27,6 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 - Blackthorn test stand.
 - Custom Meshtastic nodes.
 - OWF R1 Hardware.
-- FloV3R VR Headset with controller (6DoF).
+- FloV3R VR Headset with controllers for SteamVR (6DoF).
 - Many 3D designs like Pocket Ratchet R1, R2, PlateMate or F-14 Keyhanger.
 
