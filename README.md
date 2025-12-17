@@ -15,10 +15,10 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 
 📍 **What I'm working on now**:
 - A secret project.
+- Starting my own business.
 - Blackthorn P1 Afterburning motorjet engine.
 - Meshtastic Offgrid Weather Forecaster (OWF).
 - Stealth-inspired advanced model rocket.
-- Starting my own business.
 - Developing **Proxima Flight Computers** and writing the software for them.
 - 3D-printable models.
 
