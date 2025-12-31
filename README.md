@@ -14,8 +14,8 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 - **Saturn PCB Toolkit** for PCB calculations.
 
 📍 **What I'm working on now**:
-- A secret project.
-- FloRad R1G ABG
+- A secret commercial project.
+- FloRad R1G ABG.
 - Starting my own business.
 - Blackthorn P1 Afterburning motorjet engine.
 - Meshtastic Offgrid Weather Forecaster (OWF).
