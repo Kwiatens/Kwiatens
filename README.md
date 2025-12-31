@@ -15,6 +15,7 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 
 📍 **What I'm working on now**:
 - A secret project.
+- FloRad R1G ABG
 - Starting my own business.
 - Blackthorn P1 Afterburning motorjet engine.
 - Meshtastic Offgrid Weather Forecaster (OWF).
@@ -26,8 +27,10 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 - First iteration of Blackthorn P1 engine.
 - Blackthorn Controller R1 board.
 - Blackthorn test stand.
+- Many Bluebell series flight computers.
 - Custom Meshtastic nodes.
 - OWF R1 Hardware.
 - FloV3R VR Headset with controllers for SteamVR (6DoF).
+- Flower ULC R1
 - Many 3D designs like Pocket Ratchet R1, R2, PlateMate or F-14 Keyhanger.
 
