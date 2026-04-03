@@ -7,10 +7,10 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 
 **Main Software that I use**:
 - **KiCAD** for PCB design.
-- **Solidworks, Fusion and FreeCAD** for 3D design
+- **FreeCAD, Solidworks, Fusion** for 3D design.
 - **Ansys** for CFD and other stuff.
 - **OpenRocket** for Rocket design and flight simulation.
-- **CubeIDE** and **VSC** for firmware/software.
+- **VSC** for firmware/software.
 - **Saturn PCB Toolkit** for PCB calculations.
 
 **What I'm working on now**:
