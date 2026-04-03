@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paweł (Kwiatens)</h1>
+<h1 align="center">Hi, I'm Paweł (Kwiatens)</h1>
 
 <p align="center">Founder of <span style="color:#00b7ff"><strong>Flower Aerospace</strong></span> & Co-Founder of <span style="color:#00b7ff"><strong>Proxima</strong></span></p>
 
