@@ -39,7 +39,7 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 - Flover MPR Model Rocket - 2023
 - Flover 1 Model Rocket - 2022
 - Flower ULC R1 - 2022
-- Many 3D designs like Pocket Ratchet R1, R2, PlateMate or F-14 Keyhanger - 2019/2020/2021/2022/2023/2024/2025/2026
+- Many 3D designs like Pocket Ratchet R1, R2, PlateMate or F-14 Keyhanger - 2019-2026
 
 **Projects that are on my to-do list**:
 - Nightshade Guided Vertical Takeoff and Landing Model Rocket.
