@@ -15,12 +15,12 @@ I'm passionate about space exploration, electronics, FPV drones and drones in ge
 
 **What I'm working on now**:
 - Astro Arrow R1
-- Blackthorn-H Hybrid Rocket Engine with throttle and thrust vector control.
-- Blackthorn Controller R2H.
+- FloRad R1G 2.0 Beta & Gamma Geiger Counter.
 - 3D-printable models.
 
 **Projects that are on hold**:
-- FloRad R1G 2.0 Beta & Gamma Geiger Counter.
+- Blackthorn-H Hybrid Rocket Engine with throttle and thrust vector control.
+- Blackthorn Controller R2H.
 
 **Finished Projects (Since 2022 - Those that I remember lol)**:
 - Universal Steering Wheel Control Interface (USWCI R1) - 2026
