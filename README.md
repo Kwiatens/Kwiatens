@@ -22,7 +22,7 @@ I'm into space exploration, electronics, model rocketry, RC aircraft, FPV drones
 - Blackthorn-H Hybrid Rocket Engine with throttle and thrust vector control.
 - Blackthorn Controller R2H.
 
-**Finished Projects (Since 2022 - Those that I remember lol)**:
+**Finished Projects (Since 2022 - Those that I remember)**:
 - Universal Steering Wheel Control Interface (USWCI R1) - 2026
 - FloRad R1G 1.0 Beta & Gamma Geiger Counter - 2025/2026
 - 1.1m wingspan P51-D RC model. - 2025/2026
