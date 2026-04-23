@@ -3,7 +3,7 @@
 <p align="center">Founder of <span style="color:#00b7ff"><strong>Flower Aerospace</strong></span> & Co-Founder of <span style="color:#00b7ff"><strong>Proxima</strong></span></p>
 
 🚀 **About Me**  
-I'm passionate about space exploration, electronics, FPV drones and drones in general, model rockets, developing advanced avionics systems, designing flight computers and writing software for them. I also love physics, chemistry, motorsport and aviation (lockheed my beloved).
+I'm into space exploration, electronics, model rocketry, RC aircraft, FPV drones, developing avionics systems - designing flight computers and writing software for them. I also love physics, chemistry, motorsport and aviation (lockheed my beloved).
 
 **Main Software that I use**:
 - **KiCAD** for PCB design.
