@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Paweł (Kwiatens)</h1>
-
-<p align="center">Founder of <span style="color:#00b7ff"><strong>Flower Aerospace</strong></span> & Co-Founder of <span style="color:#00b7ff"><strong>Proxima</strong></span></p>
+<h3 align="center">Special thanks to <a href="https://jlccnc.com?from=Kwiatens">JLCCNC</a> for sponsoring my projects!</h3>
 
 🚀 **About Me**  
-I'm into space exploration, electronics, model rocketry, RC aircraft, FPV drones, developing avionics systems - designing flight computers and writing software for them. I also love physics, chemistry, motorsport and aviation (lockheed my beloved).
+I'm into electronics, model rocketry, RC aircraft, FPV drones and anything that flies. I also love physics, chemistry and motorsport (lockheed my beloved).
 
 **Main Software that I use**:
 - **KiCAD** for PCB design.
 - **FreeCAD, Solidworks, Fusion** for 3D design.
-- **Ansys** for CFD and other stuff.
+- **Ansys** for CFD and other simulations.
 - **OpenRocket** for Rocket design and flight simulation.
 - **VSC** for firmware/software.
 - **Saturn PCB Toolkit** for PCB calculations.
