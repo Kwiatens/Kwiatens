@@ -13,8 +13,8 @@ I'm into electronics, model rocketry, RC aircraft, FPV drones and anything that 
 - **Saturn PCB Toolkit** for PCB calculations.
 
 **What I'm working on now**:
+- Inventatory Hardware Inventory Management System
 - Astro Arrow R1
-- HIMS Hardware Inventory Management System
 - 3D-printable models.
 
 **Projects that are on hold**:
