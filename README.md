@@ -2,7 +2,7 @@
 <h3 align="center">Special thanks to <a href="https://jlccnc.com?from=Kwiatens">JLCCNC</a> for sponsoring my projects!</h3>
 
 🚀 **About Me**  
-I'm into electronics, model rocketry, RC aircraft, FPV drones and anything that flies. I also love physics, chemistry and motorsport (lockheed my beloved).
+I'm into electronics, model rocketry, RC aircraft, FPV drones and aerospace stuff. I also love physics, chemistry and motorsport.
 
 **Main Software that I use**:
 - **KiCAD** for PCB design.
