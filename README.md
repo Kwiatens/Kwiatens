@@ -13,11 +13,13 @@ I'm into electronics, model rocketry, RC aircraft, FPV drones and anything that 
 - **Saturn PCB Toolkit** for PCB calculations.
 
 **What I'm working on now**:
-- Inventatory Hardware Inventory Management System
-- Astro Arrow R1
+- Inventatory Hardware Inventory Management System.
+- Proxima Model Rocket Flight Computers.
+- Learning game-dev.
 - 3D-printable models.
 
 **Projects that are on hold**:
+- Astro Arrow R1
 - FloRad R1G 2.0 Beta & Gamma Geiger Counter.
 - Blackthorn-H Hybrid Rocket Engine with throttle and thrust vector control.
 - Blackthorn Controller R2H.
