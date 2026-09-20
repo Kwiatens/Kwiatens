@@ -16,6 +16,7 @@ I'm into electronics, model rocketry, RC aircraft, FPV drones and aerospace stuf
 - Inventatory Hardware Inventory Management System.
 - Proxima Model Rocket Flight Computers.
 - Learning game-dev.
+- Local AI / Server
 - 3D-printable models.
 
 **Projects that are on hold**:
